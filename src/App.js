@@ -24,7 +24,7 @@ function App() {
         <img src={logoSrc} alt="Photobooth Ma" style={{ width: 50 }} />
         <h1 style={{
           fontFamily: "Cantika Cute",
-          color: "#8c5b4a",
+          color: "#e35ca7",
           margin: 0
         }}>
           Photobooth MA
